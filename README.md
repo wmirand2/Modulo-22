@@ -4,24 +4,24 @@ Neste modulo vamos explorar aspectos de dados em séries temporais, alguns trata
 
 Exemplos de dados de tempo utilizados em ciência de dados são:
 
-COVID-19
-Quantidade de casos
-Fatalidades
-Pessoas vacinadas
-Leitos ocupados
-Em empresas
-Quantidade de vendas
-Solicitações
-Clientes
-Casos de fraude
-Em finanças
-Preço do dolar
-Valor de ações
-Índice (inflação, Ibovespa etc)
-Vamos baixar dados de valores de ações e indicadores brasileiros pelo Yahoo Finance, tratá-los e visualizá-los.
+- COVID-19
+- Quantidade de casos
+- Fatalidades
+- Pessoas vacinadas
+- Leitos ocupados
+- Em empresas
+- Quantidade de vendas
+- Solicitações
+- Clientes
+- Casos de fraude
+- Em finanças
+- Preço do dolar
+- Valor de ações
+- Índice (inflação, Ibovespa etc)
+- Vamos baixar dados de valores de ações e indicadores brasileiros pelo Yahoo Finance, tratá-los e visualizá-los.
 
 Os nossos objetivos são:
 
-Ser capaz de baixar dados do Yahoo Finance
-Ampliar o contato com dados de séries de tempo
-Aprender o básico sobre o Plotly
+- Ser capaz de baixar dados do Yahoo Finance
+- Ampliar o contato com dados de séries de tempo
+- Aprender o básico sobre o Plotly
